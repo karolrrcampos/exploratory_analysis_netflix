@@ -12,11 +12,11 @@ Os dados utilizados para as análises estão disponíveis em [Netflix Movies and
 
 ## Conteúdo do Repositório
 
-1. **MySQL Scripts:** Utilizados para extrair e transformar dados relacionados aos filmes e programas de TV da Netflix.
+1. **MySQL Script:** Utilizados para extrair e transformar dados relacionados aos filmes e programas de TV da Netflix.
 
-2. **R Scripts:** Utilizados para análises exploratórias, visualizações de dados e quaisquer manipulações realizadas durante o processo de análise.
+2. **R Script:** Utilizados para análises exploratórias, visualizações de dados e quaisquer manipulações realizadas durante o processo de análise.
 
-3. **Power BI:** Arquivo relacionado ao dashboard criado no Power BI para fornecer uma visualização interativa dos dados analisados.
+3. **PDF Dashboard:** Arquivo relacionado ao dashboard criado no Power BI para fornecer uma visualização interativa dos dados analisados.
 
 ## Como Usar
 
