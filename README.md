@@ -8,7 +8,7 @@
 
 Repositório dedicado à analise dos dados das produções da Netflix, utilizando as ferramentas MySQL, R e o Power BI. 
 
-Os dados utilizados para as análises estão disponíveis em [Netflix Movies and TV Shows](https://www.kaggle.com/datasets/shivamb/netflix-shows/data). Os dados incluem informações sobre os títulos, diretores, atores, gêneros, ano de lançamento, duração, classificação indicativa,países disponíveis, entre outros.
+Os dados utilizados nas análises estão disponíveis em [Netflix Movies and TV Shows](https://www.kaggle.com/datasets/shivamb/netflix-shows/data). Os dados incluem informações sobre os títulos, diretores, atores, gêneros, ano de lançamento, duração, classificação indicativa,países disponíveis, entre outros.
 
 ## Conteúdo do Repositório
 
