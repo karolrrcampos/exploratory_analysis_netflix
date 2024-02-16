@@ -3,8 +3,7 @@
  </div>
 
 ---
-
-# Produções Netflix
+<h1 align="center">Produções Netflix<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> </h1>
 
 Repositório dedicado à analise dos dados das produções da Netflix, utilizando as ferramentas MySQL, R e o Power BI. 
 
